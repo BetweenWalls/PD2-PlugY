@@ -1,14 +1,14 @@
 # PD2-PlugY
-PlugY v14.03 files with settings adjusted for PD2
+[PlugY](http://plugy.free.fr/) v14.03 files with settings adjusted for PD2
 
 ### [Download](https://github.com/BetweenWalls/PD2-PlugY/archive/main.zip)
 
 ## Setup Guide
-1. Install Diablo II LoD
-2. Install PD2
+1. Pre-Setup - Ensure you have *Diablo II LoD* and *PD2* installed
 3. Add PlugY - copy the *ProjectD2* folder included here into your *Diablo II* folder
-4. Run PD2 via the launcher to get the latest patch/update
-5. Run PlugY.exe as administrator
+3. Run PlugY.exe as administrator
+
+You'll still need to run PD2 via the launcher occasionally to get the latest patch/update.
 
 If you want to update old character/stash files, see [PD2-Converter](https://github.com/BetweenWalls/PD2-Converter#simple-characterstash-converter-for-pd2).
 
