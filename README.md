@@ -1,6 +1,8 @@
 # PD2-PlugY
 [PlugY](http://plugy.free.fr/) v14.03 files with settings adjusted for PD2
 
+PlugY is a singleplayer mod which adds stash pages, fixes ubers, and allows unlimited skill/stat resets as well as several other optional features.
+
 ### [Download](https://github.com/BetweenWalls/PD2-PlugY/archive/main.zip)
 
 ## Setup Guide
