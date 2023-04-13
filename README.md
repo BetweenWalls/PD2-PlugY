@@ -20,6 +20,8 @@ You'll still need to run PD2 via the launcher occasionally to get the latest pat
 PlugY bugs:
 * Having many maps in a single stash page can cause a crash if it is the most recently visited page
 * Having gold in the shared stash can cause issues such as preventing CtA oskills from working correctly
-* The "toggle stash" button may be set to the wrong stash upon loading until interacting with the current stash - put an item on a higher page (such as page 1000) in whichever stash is loaded first to fix it
+* The "toggle stash" button may be set to the wrong stash upon loading until interacting with the current stash - putting an item on a higher page (such as page 200) in whichever stash is loaded first seems to fix it in some cases
 
 There are in-game commands for renaming stash pages and moving stash pages around, as well as some other useful commands such as renaming characters - checkout the PlugY [Readme](https://raw.githubusercontent.com/BetweenWalls/PD2-PlugY/main/ProjectD2/PlugY_The_Survival_Kit_-_Readme.txt) file.
+
+All features can be enabled or disabled within the PlugY.ini settings file.
