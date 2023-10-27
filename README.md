@@ -10,7 +10,7 @@ PlugY is a singleplayer mod which adds stash pages, fixes ubers, and allows unli
 2. Add PlugY - copy the **ProjectD2** folder included here into your **Diablo II** folder
 3. Run **PlugY.exe** as administrator
 
-You'll still need to run PD2 via the launcher to update the game to the latest season/patch.
+When new seasons/patches are released, you'll need to run PD2 via the launcher to update the game. Running the game via the launcher will also update your lootfilter.
 
 ### Troubleshooting
 Setup:
@@ -25,7 +25,7 @@ PlugY bugs:
     * FIX: Ensure no "shared gold" remains in the stash during normal gameplay
 * The "toggle stash" button may be set to the wrong stash upon loading until interacting with the current stash - this happens if the most recent stash interaction prior to saving/exiting involved using a PlugY stash button instead of manipulating an item in the stash
     * FIX: Add or remove an item from the stash prior to saving/exiting (this also fixes the button at any time if it's set wrong)
-* Stash navigation may be buggy if the stash pages are empty - the navigation will appear to jump between the wrong pages, but it is actually just displaying the wrong page numbers for all pages between the first page (page 1) and the first index (page 10)
+* Stash navigation may be buggy if the stash pages are empty - the navigation will appear to jump between the wrong pages, but it is actually just displaying the wrong page numbers for all pages between the first page (page&nbsp;1) and the first index (page&nbsp;10)
     * FIX: Put an item on page 10 or higher and save/exit
 
 There are in-game commands for renaming stash pages and moving stash pages around, as well as some other useful commands such as renaming characters - checkout the PlugY [Readme](https://raw.githubusercontent.com/BetweenWalls/PD2-PlugY/main/ProjectD2/PlugY_The_Survival_Kit_-_Readme.txt) file.
