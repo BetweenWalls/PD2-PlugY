@@ -17,6 +17,9 @@ Setup:
 * PlugY may not load correctly if it is added after a fresh PD2 installation or if PD2 hasn't been updated in a while - run the game once via the launcher to fix it
 * Older versions of PlugY had a different folder structure (some files were in the **Diablo II** folder instead of the **Diablo II/ProjectD2** folder) so they won't be ovewritten automatically - delete those old files manually if there are any issues
 * Old characters from previous seasons may not load correctly - to update them, see [PD2-Converter](https://github.com/BetweenWalls/PD2-Converter#simple-characterstash-converter-for-pd2)
+* The first character you load after launching the game takes a long time to load:
+    * Remove the -3dfx parameter from PlugY.ini and add it to your game shortcut instead
+    * Change Game.exe and Diablo II.exe (in ProjectD2) to run in compatibility mode for Windows XP (Service Pack 3) and run as administrator
 
 PlugY bugs:
 * If a single stash page contains many items that each have many affixes (e.g. maps) then crashes can occur when accessing that page or at any time if that page was the most recently viewed page
